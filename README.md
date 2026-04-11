@@ -15,10 +15,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=VishwajeetJa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajeetJa&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="300" />
-
 ---
 
 ### 🌐 Connectivity
