@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛠️ Vishwajeet Satish Jadhav
-`Artificial Intelligence & Data Science||Translating the language of entropy into the logic of insight.`
+`Artificial Intelligence & Data Science || Translating the language of entropy into the logic of insight.`
 
 ---
 
